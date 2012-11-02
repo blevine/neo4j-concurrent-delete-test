@@ -1,0 +1,16 @@
+{
+  "name": "conc",
+  "version": "0.0.0",
+  "description": "Neo4j test to try to debug some concurrency issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "whatever",
+  "dependencies": {
+    "async": "~0.1.22",
+    "neo4j": "~0.2.19"
+  }
+}
